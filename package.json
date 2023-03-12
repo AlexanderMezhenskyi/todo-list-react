@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/AlexanderMezhenskyi/todo-list-react",
+  "homepage": "https://alexandermezhenskyi.github.io/todo-list-react",
   "private": true,
   "dependencies": {
     "prop-types": "^15.8.1",
